@@ -1,0 +1,26 @@
+{
+  "name": "hangul-tools",
+  "version": "0.1.4",
+  "description": "A Hangul library for various Hangul/Korean operations including reading numbers, adding josa, and converting between different keyboards",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "ignore": [
+    ".*",
+    "*.custom.*",
+    "*.log",
+    "*.map",
+    "*.md",
+    "lodash.src.js",
+    "component.json",
+    "package.json",
+    "doc",
+    "node_modules",
+    "perf",
+    "test",
+    "vendor"
+  ]
+}
